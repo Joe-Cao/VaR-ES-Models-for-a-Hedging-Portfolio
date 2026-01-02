@@ -1,6 +1,6 @@
 # VaR/ES Models for a Delta-Hedged Portfolio Using the Heston Pricing Mechanism
 
-This project implements end-to-end Value-at-Risk (VaR) and Expected Shortfall (ES) modeling, including data preparation, model implementation, backtesting, and tail-risk analysis.
+This project delivers an end-to-end pipeline for Value-at-Risk (VaR) and Expected Shortfall (ES) modeling of a delta-hedged strategy using the Heston option-pricing model, including data preparation, model implementation, backtesting, and tail-risk analysis. It is a continuation of *Calibrating the Heston Model for Option Pricing*.
 
 ## Data Preprocessing
 
