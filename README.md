@@ -1,4 +1,4 @@
-# VaR-ES-Models-for-a-Hedging-Portfolio
+# VaR/ES Models for a Delta-Hedged Portfolio Using the Heston Pricing Mechanism
 
 This project implements end-to-end Value-at-Risk (VaR) and Expected Shortfall (ES) modeling, including data preparation, model implementation, backtesting, and tail-risk analysis.
 
